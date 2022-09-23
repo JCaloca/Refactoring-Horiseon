@@ -8,7 +8,7 @@ Refactoring Horisean is an exercise in which I display my ability to debug and r
 
 The following screenshot shows the work done to consolidate the code of the side bar in HTML and CSS by changing the elements and associated .class selectors.
 
-![Code Example](assets/images/Rafactoring%20Horsion%20Screenshot.png)
+![Code Example](Assets/images/RafactoringHorsionScreenshot.png)
 
 ## Credits
 
