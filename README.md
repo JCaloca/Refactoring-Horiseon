@@ -12,4 +12,4 @@ The following screenshot shows the work done to consolidate the code of the side
 
 ## Credits
 
-Thank you to my Bootcamp partners for their study groups and consultation.
+Thank you to my Bootcamp partners for their study groups and consultation. In particular Joe Jensen!
